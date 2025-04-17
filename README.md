@@ -1,1 +1,1 @@
-Python scripts for evaluating the accuracy, consistency, and semantic understanding of large language models (LLMs) in restorative dentistry and endodontics. Further code updates will be shared following article acceptance.
+Python scripts for evaluating the accuracy, consistency, and semantic understanding of large language models (LLMs) in restorative dentistry and endodontics. Further code updates will be shared following specific needs. For any question, don't hesitate to contact Raphael Richert raphael.richert@insa-lyon.fr
